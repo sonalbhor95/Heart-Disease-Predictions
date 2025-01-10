@@ -10,9 +10,9 @@ age: Patient's age (in years)<br>
 origin: Location of the study<br>
 sex: Male/Female<br>
 cp (chest pain type):
-Typical angina
-Atypical angina
-Non-anginal pain
+Typical angina,
+Atypical angina,
+Non-anginal pain,
 Asymptomatic<br>
 trestbps: Resting blood pressure (in mm Hg on hospital admission)<br>
 chol: Serum cholesterol level (in mg/dl)<br>
