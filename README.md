@@ -4,7 +4,7 @@ This dataset is multivariate, involving multiple mathematical or statistical var
 
 Although the database includes 76 attributes, most published studies focus on these 14. The Cleveland database is the primary resource used by machine learning researchers. The main objective is to predict whether a patient has heart disease based on their attributes, along with exploring additional insights to better understand the condition.
 
-Column Descriptions:
+Column Descriptions:<br>
 id: Unique identifier for each patient
 age: Patient's age (in years)
 origin: Location of the study
