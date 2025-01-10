@@ -13,7 +13,7 @@ cp (chest pain type):
 Typical angina
 Atypical angina
 Non-anginal pain
-Asymptomatic
+Asymptomatic<br>
 trestbps: Resting blood pressure (in mm Hg on hospital admission)<br>
 chol: Serum cholesterol level (in mg/dl)<br>
 fbs: Fasting blood sugar > 120 mg/dl (True/False)<br>
